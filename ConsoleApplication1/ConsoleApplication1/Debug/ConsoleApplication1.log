@@ -1,0 +1,2 @@
+﻿  Source.cpp
+c:\users\did13\desktop\consoleapplication1\consoleapplication1\source.cpp(117): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "stdafx.h"'?
